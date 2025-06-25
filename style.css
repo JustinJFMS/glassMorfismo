@@ -78,24 +78,24 @@ body{
     font-size: 1.25rem;
 }
 
-.wrapper .remender-password{
+.wrapper .remenber-password{
     display: flex;
     justify-content: space-between;
     font-size: 0.875rem;
     margin: -0.9375rem 0 0.9375rem;
 }
 
-.remender-password label input{
+.remenber-password label input{
     accent-color: #fff;
     margin-right: 0.1875;
 }
 
-.remender-password a{
+.remenber-password a{
     color: #fff;
     text-decoration: none;
 }
 
-.remender-password a:hover{
+.remenber-password a:hover{
     text-decoration: underline;
 }
 
